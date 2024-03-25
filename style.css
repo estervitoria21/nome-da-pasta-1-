@@ -5,12 +5,21 @@ podding:0;
 body{
   background:#cccccc
 }
+
+#banner{
+  width:100%;
+}
+
 h1{
   teste-align:center;
 }
 p{
   text-align:center;
 }
-em strong {
+
+#missao{
+  font-size:30px;
+}
+em strong{
   color:black;
 }
