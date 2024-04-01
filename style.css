@@ -13,9 +13,13 @@ body{
   podding:30px;
 }
 
-h1{
-  teste-align:center;
+
+.titulo-principal{
+  padding-left:20px
 }
+.titulo-secundario{
+  text-alingn:center;
+}  
 p{
   text-align:center;
 }
