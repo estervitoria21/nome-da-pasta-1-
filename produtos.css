@@ -34,6 +34,7 @@ produtos{
   podding:50px;
 }
   .produtos li {
+    
     display:inline-blok;
     text-align:center;
     width:30%;
@@ -43,6 +44,14 @@ produtos{
     box-sizing:border.box;
     border: 2px solid #000000;
     border-radius: 10px;
-  
+  }
+  .produtos li:hover{
+    border-color:green;
+  }
+  .produtos li: active{
+    border-color:red;
+  }
+  produtos li: border h2 {
+    font-size:34px:
   }
 
