@@ -1,14 +1,14 @@
 header{
   background:#BBBBBB;
-  paddinng:20px;
+  padding:20px;
 }
 .caixa{
   position:relative;
-  widht:940px;
-  margem: 0 auto;
+  width:940px;
+  margin: 0 auto;
 }
 nav{
-  .position: absolute;
+  position: absolute;
   top: 110px;
   right: 0;
   }
@@ -31,7 +31,7 @@ nav a{
 produtos{
   width:940px;
   margin:0 auto;
-  podding:50px;
+  padding:50px;
 }
   .produtos li {
     
@@ -40,18 +40,17 @@ produtos{
     width:30%;
     vertical-align:top;
     margin:0 1.5%;
-    podding:30px 20px;
-    box-sizing:border.box;
+    padding:30px 20px;
+    box-sizing:border-box;
     border: 2px solid #000000;
     border-radius: 10px;
   }
   .produtos li:hover{
     border-color:green;
   }
-  .produtos li: active{
+  .produtos li:active {
     border-color:red;
   }
-  produtos li: border h2 {
-    font-size:34px:
+  produtos li:border h2 {
+    font-size:34px;
   }
-
