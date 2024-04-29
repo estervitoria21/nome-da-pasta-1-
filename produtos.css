@@ -54,3 +54,21 @@ produtos{
   produtos li:border h2 {
     font-size:34px;
   }
+  maim{
+    width: 940px;
+    margin:0 auto;
+  }
+  form{
+    margin:40px 0;
+  }
+  form label{
+    display:block;
+    font-size:20px;
+    margim:0 0 10px;
+  }
+  form imput {
+    display:black;
+    margem:0 0 20px;
+    podding:1opx 25px;
+    width:50%;
+  }
